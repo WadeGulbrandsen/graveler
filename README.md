@@ -6,6 +6,8 @@ See [The Science Video](https://youtu.be/M8C8dHQE2Ro)
 - Using Go for the easy concurrency
 - Accpets an optional command line parameter for the number of games to simulate
 
+![image](graveler.png "Screenshot of running the simulation")
+
 ## Building
 
 Navigate to the directory that contains `go.mod` and `graveler.go`
