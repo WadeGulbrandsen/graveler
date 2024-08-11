@@ -10,6 +10,8 @@ See [The Science Video](https://youtu.be/M8C8dHQE2Ro)
 
 ## Building
 
+[Install Go](https://go.dev/doc/install)
+
 Navigate to the directory that contains `go.mod` and `graveler.go`
 
 ```bash
